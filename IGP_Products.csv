@@ -1,101 +1,101 @@
-Product_ID,Product_Name,Category,Price
-P001,Orchid Arrangement 1,Flowers,999
-P002,Orchid Arrangement 2,Flowers,999
-P003,Orchid Arrangement 3,Flowers,399
-P004,Lily Basket 4,Flowers,1999
-P005,Lily Basket 5,Flowers,1499
-P006,Rose Bouquet 6,Flowers,1299
-P007,Lily Basket 7,Flowers,1299
-P008,Orchid Arrangement 8,Flowers,399
-P009,Tulip Bouquet 9,Flowers,1299
-P010,Lily Basket 10,Flowers,699
-P011,Lily Basket 11,Flowers,699
-P012,Lily Basket 12,Flowers,999
-P013,Tulip Bouquet 13,Flowers,399
-P014,Tulip Bouquet 14,Flowers,1999
-P015,Tulip Bouquet 15,Flowers,1999
-P016,Tulip Bouquet 16,Flowers,1499
-P017,Pineapple Cake 17,Cakes,1499
-P018,Black Forest Cake 18,Cakes,799
-P019,Black Forest Cake 19,Cakes,399
-P020,Chocolate Truffle 20,Cakes,799
-P021,Chocolate Truffle 21,Cakes,1999
-P022,Black Forest Cake 22,Cakes,1999
-P023,Pineapple Cake 23,Cakes,799
-P024,Pineapple Cake 24,Cakes,399
-P025,Black Forest Cake 25,Cakes,399
-P026,Red Velvet Cake 26,Cakes,599
-P027,Chocolate Truffle 27,Cakes,1299
-P028,Red Velvet Cake 28,Cakes,999
-P029,Pineapple Cake 29,Cakes,1999
-P030,Chocolate Truffle 30,Cakes,799
-P031,Black Forest Cake 31,Cakes,1299
-P032,Black Forest Cake 32,Cakes,699
-P033,Engraved Pen 33,Personalized Gifts,399
-P034,Photo Mug 34,Personalized Gifts,499
-P035,Custom Cushion 35,Personalized Gifts,699
-P036,Custom Cushion 36,Personalized Gifts,1299
-P037,Photo Frame 37,Personalized Gifts,1499
-P038,Engraved Pen 38,Personalized Gifts,799
-P039,Engraved Pen 39,Personalized Gifts,399
-P040,Engraved Pen 40,Personalized Gifts,1299
-P041,Custom Cushion 41,Personalized Gifts,399
-P042,Custom Cushion 42,Personalized Gifts,299
-P043,Photo Mug 43,Personalized Gifts,299
-P044,Custom Cushion 44,Personalized Gifts,399
-P045,Photo Frame 45,Personalized Gifts,599
-P046,Photo Frame 46,Personalized Gifts,1499
-P047,Photo Frame 47,Personalized Gifts,799
-P048,Engraved Pen 48,Personalized Gifts,1299
-P049,Chocolate Hamper 49,Chocolates,999
-P050,Chocolate Hamper 50,Chocolates,499
-P051,Assorted Chocolates 51,Chocolates,999
-P052,Ferrero Box 52,Chocolates,1999
-P053,Chocolate Hamper 53,Chocolates,1299
-P054,Assorted Chocolates 54,Chocolates,999
-P055,Ferrero Box 55,Chocolates,599
-P056,Chocolate Hamper 56,Chocolates,699
-P057,Ferrero Box 57,Chocolates,1999
-P058,Ferrero Box 58,Chocolates,1499
-P059,Chocolate Hamper 59,Chocolates,799
-P060,Premium Truffles 60,Chocolates,599
-P061,Assorted Chocolates 61,Chocolates,399
-P062,Premium Truffles 62,Chocolates,1299
-P063,Premium Truffles 63,Chocolates,1999
-P064,Assorted Chocolates 64,Chocolates,1999
-P065,Wellness Hamper 65,Gift Hampers,1999
-P066,Festive Hamper 66,Gift Hampers,799
-P067,Corporate Hamper 67,Gift Hampers,1299
-P068,Luxury Hamper 68,Gift Hampers,699
-P069,Festive Hamper 69,Gift Hampers,499
-P070,Corporate Hamper 70,Gift Hampers,399
-P071,Luxury Hamper 71,Gift Hampers,699
-P072,Festive Hamper 72,Gift Hampers,499
-P073,Corporate Hamper 73,Gift Hampers,499
-P074,Wellness Hamper 74,Gift Hampers,999
-P075,Luxury Hamper 75,Gift Hampers,1999
-P076,Wellness Hamper 76,Gift Hampers,999
-P077,Luxury Hamper 77,Gift Hampers,1299
-P078,Luxury Hamper 78,Gift Hampers,1499
-P079,Luxury Hamper 79,Gift Hampers,1299
-P080,Corporate Hamper 80,Gift Hampers,499
-P081,Lucky Bamboo 81,Plants,799
-P082,Peace Lily 82,Plants,1999
-P083,Money Plant 83,Plants,799
-P084,Money Plant 84,Plants,1299
-P085,Lucky Bamboo 85,Plants,599
-P086,Peace Lily 86,Plants,1499
-P087,Peace Lily 87,Plants,999
-P088,Peace Lily 88,Plants,999
-P089,Peace Lily 89,Plants,1299
-P090,Lucky Bamboo 90,Plants,399
-P091,Money Plant 91,Plants,599
-P092,Snake Plant 92,Plants,299
-P093,Snake Plant 93,Plants,599
-P094,Snake Plant 94,Plants,499
-P095,Peace Lily 95,Plants,1999
-P096,Peace Lily 96,Plants,1499
-P097,Special Gift 97,Gift Hampers,999
-P098,Special Gift 98,Gift Hampers,999
-P099,Special Gift 99,Gift Hampers,999
-P100,Special Gift 100,Gift Hampers,999
+Product_ID,Product_Name,Category,Price (INR),Occasion
+P001,Holi Mixed Flowers - Deluxe,Flowers,1049,Holi
+P002,Birthday Mixed Flowers - Standard,Flowers,808,Birthday
+P003,Mother Day Bamboo Plant - Deluxe,Plants,646,Mother Day
+P004,Birthday Assorted Sweets - Deluxe,Sweets,1120,Birthday
+P005,Diwali Bouquet - Deluxe,Flowers,876,Diwali
+P006,Valentine's Day Vanilla Cake - Premium,Cakes,836,Valentine's Day
+P007,Christmas Lilies - Premium,Flowers,1035,Christmas
+P008,Father Day Black Forest - Premium,Cakes,741,Father Day
+P009,All Occasions Money Plant - Standard,Plants,707,All Occasions
+P010,Christmas Mug - Standard,Gifts,1404,Christmas
+P011,Diwali Mixed Flowers - Premium,Flowers,969,Diwali
+P012,Father Day Bouquet - Standard,Flowers,908,Father Day
+P013,Father Day Photo Frame - Standard,Gifts,1438,Father Day
+P014,All Occasions Mini Teddy - Deluxe,Soft Toys,1116,All Occasions
+P015,Diwali Teddy Bear - Standard,Soft Toys,1400,Diwali
+P016,Diwali Bamboo Plant - Standard,Plants,653,Diwali
+P017,Diwali Chocolate Box - Deluxe,Sweets,1099,Diwali
+P018,All Occasions Kaju Katli - Premium,Sweets,971,All Occasions
+P019,Anniversary Assorted Sweets - Premium,Sweets,927,Anniversary
+P020,Anniversary Luxury Box - Standard,Gifts,1574,Anniversary
+P021,Father Day Assorted Sweets - Premium,Sweets,1067,Father Day
+P022,Birthday Bamboo Plant - Premium,Plants,751,Birthday
+P023,Valentine's Day Mini Teddy - Premium,Soft Toys,1321,Valentine's Day
+P024,Diwali Orchid Plant - Deluxe,Plants,694,Diwali
+P025,Anniversary Kaju Katli - Standard,Sweets,937,Anniversary
+P026,Anniversary Teddy Bear - Premium,Soft Toys,1178,Anniversary
+P027,Christmas Giant Teddy - Standard,Soft Toys,1146,Christmas
+P028,Birthday Giant Teddy - Premium,Soft Toys,1238,Birthday
+P029,Anniversary Chocolate Cake - Standard,Cakes,920,Anniversary
+P030,New Year Assorted Sweets - Deluxe,Sweets,1108,New Year
+P031,Anniversary Bouquet - Premium,Flowers,1083,Anniversary
+P032,Anniversary Assorted Sweets - Standard,Sweets,1049,Anniversary
+P033,Christmas Gift Hamper - Deluxe,Gifts,1686,Christmas
+P034,Valentine's Day Assorted Sweets - Standard,Sweets,1094,Valentine's Day
+P035,Diwali Vanilla Cake - Premium,Cakes,837,Diwali
+P036,New Year Chocolate Cake - Standard,Cakes,922,New Year
+P037,Raksha Bandhan Photo Frame - Premium,Gifts,1439,Raksha Bandhan
+P038,Holi Teddy Bear - Deluxe,Soft Toys,1353,Holi
+P039,Father Day Chocolate Box - Premium,Sweets,954,Father Day
+P040,Diwali Teddy Bear - Premium,Soft Toys,1270,Diwali
+P041,Father Day Photo Frame - Premium,Gifts,1571,Father Day
+P042,Christmas Orchid Plant - Standard,Plants,653,Christmas
+P043,Holi Assorted Sweets - Standard,Sweets,1145,Holi
+P044,Holi Red Velvet - Premium,Cakes,849,Holi
+P045,All Occasions Luxury Box - Premium,Gifts,1592,All Occasions
+P046,Raksha Bandhan Photo Frame - Standard,Gifts,1688,Raksha Bandhan
+P047,Valentine's Day Assorted Sweets - Deluxe,Sweets,1181,Valentine's Day
+P048,Birthday Bamboo Plant - Deluxe,Plants,607,Birthday
+P049,New Year Mini Teddy - Standard,Soft Toys,1309,New Year
+P050,All Occasions Luxury Box - Deluxe,Gifts,1555,All Occasions
+P051,Valentine's Day Mini Teddy - Standard,Soft Toys,1316,Valentine's Day
+P052,Christmas Mixed Flowers - Deluxe,Flowers,1045,Christmas
+P053,Father Day Mug - Deluxe,Gifts,1418,Father Day
+P054,Holi Orchid Plant - Deluxe,Plants,543,Holi
+P055,Anniversary Vanilla Cake - Standard,Cakes,722,Anniversary
+P056,Father Day Orchid Plant - Deluxe,Plants,704,Father Day
+P057,Holi Gift Hamper - Standard,Gifts,1450,Holi
+P058,Raksha Bandhan Black Forest - Premium,Cakes,891,Raksha Bandhan
+P059,Christmas Luxury Box - Premium,Gifts,1412,Christmas
+P060,New Year Lilies - Premium,Flowers,843,New Year
+P061,Anniversary Money Plant - Premium,Plants,659,Anniversary
+P062,Holi Luxury Box - Deluxe,Gifts,1647,Holi
+P063,Holi Gift Hamper - Premium,Gifts,1631,Holi
+P064,Holi Lilies - Standard,Flowers,858,Holi
+P065,Birthday Mini Teddy - Standard,Soft Toys,1184,Birthday
+P066,Valentine's Day Chocolate Box - Deluxe,Sweets,981,Valentine's Day
+P067,Holi Kaju Katli - Premium,Sweets,1018,Holi
+P068,Christmas Money Plant - Standard,Plants,721,Christmas
+P069,Christmas Roses - Premium,Flowers,1019,Christmas
+P070,Christmas Roses - Standard,Flowers,942,Christmas
+P071,Anniversary Chocolate Box - Deluxe,Sweets,995,Anniversary
+P072,Holi Teddy Bear - Premium,Soft Toys,1158,Holi
+P073,Raksha Bandhan Bamboo Plant - Deluxe,Plants,660,Raksha Bandhan
+P074,Father Day Mug - Standard,Gifts,1578,Father Day
+P075,Holi Luxury Box - Premium,Gifts,1443,Holi
+P076,All Occasions Vanilla Cake - Standard,Cakes,822,All Occasions
+P077,Raksha Bandhan Roses - Premium,Flowers,872,Raksha Bandhan
+P078,Mother Day Mug - Deluxe,Gifts,1470,Mother Day
+P079,Father Day Mug - Premium,Gifts,1675,Father Day
+P080,All Occasions Black Forest - Premium,Cakes,847,All Occasions
+P081,Diwali Vanilla Cake - Deluxe,Cakes,727,Diwali
+P082,Holi Mixed Flowers - Standard,Flowers,899,Holi
+P083,Christmas Assorted Sweets - Deluxe,Sweets,1153,Christmas
+P084,Christmas Bamboo Plant - Premium,Plants,727,Christmas
+P085,New Year Chocolate Cake - Deluxe,Cakes,715,New Year
+P086,Valentine's Day Teddy Bear - Premium,Soft Toys,1215,Valentine's Day
+P087,Mother Day Teddy Bear - Premium,Soft Toys,1389,Mother Day
+P088,New Year Assorted Sweets - Standard,Sweets,1193,New Year
+P089,Anniversary Mini Teddy - Premium,Soft Toys,1377,Anniversary
+P090,Birthday Bamboo Plant - Standard,Plants,717,Birthday
+P091,Anniversary Orchid Plant - Standard,Plants,652,Anniversary
+P092,Birthday Photo Frame - Premium,Gifts,1444,Birthday
+P093,New Year Roses - Standard,Flowers,979,New Year
+P094,Father Day Bamboo Plant - Standard,Plants,571,Father Day
+P095,Valentine's Day Chocolate Cake - Deluxe,Cakes,879,Valentine's Day
+P096,Mother Day Mini Teddy - Deluxe,Soft Toys,1186,Mother Day
+P097,Holi Bamboo Plant - Premium,Plants,793,Holi
+P098,Raksha Bandhan Assorted Sweets - Standard,Sweets,969,Raksha Bandhan
+P099,Christmas Lilies - Deluxe,Flowers,864,Christmas
+P100,Diwali Black Forest - Deluxe,Cakes,864,Diwali
