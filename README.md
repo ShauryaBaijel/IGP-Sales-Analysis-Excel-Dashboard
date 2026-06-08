@@ -1,51 +1,97 @@
-# IGP Sales Analysis Dashboard
+# IGP Sales Analysis Dashboard | Microsoft Excel
 
-## Problem Statement
+## Overview
 
-IGP (Indian Gifts Portal) is a leading gifting and celebration-focused e-commerce company specializing in delivering gifts for various occasions such as Diwali, Raksha Bandhan, Valentine's Day, Birthdays, Anniversaries, Mother's Day, Father's Day, Christmas, and New Year.
+This project analyzes sales performance data for IGP (Indian Gifts Portal), a gifting and celebration-focused e-commerce platform. The dashboard was developed in Microsoft Excel to transform raw sales data into actionable business insights through interactive visualizations and KPI reporting.
 
-The dataset contains information about products, orders, customers, occasions, and relevant order dates. The objective is to analyze sales performance, customer purchasing behavior, occasion-wise demand, and product popularity.
-
-An interactive Excel dashboard will be created to answer key business questions and provide actionable business insights.
-
----
-
-## Key Business Questions
-
-1. Total Revenue – Identify the total revenue generated.
-2. Average Order and Delivery Time – Evaluate the average time taken between order placement and delivery.
-3. Monthly Sales Performance – Analyze sales trends across different months.
-4. Top Products by Revenue – Determine the highest revenue-generating products.
-5. Customer Spending Analysis – Understand average customer spending behavior.
-6. Sales Performance of Top 5 Products – Compare the revenue performance of top products.
-7. Top 10 Cities by Number of Orders – Identify cities generating the highest order volumes.
-8. Order Quantity vs Delivery Time – Analyze whether larger orders impact delivery timelines.
-9. Revenue Comparison Between Occasions – Compare revenue generated across different occasions.
-10. Product Popularity by Occasion – Identify the most popular products for each occasion.
+The analysis focuses on revenue trends, customer purchasing behavior, product performance, city-wise demand, and occasion-based sales patterns.
 
 ---
 
 ## Dataset Information
 
-- Customers Dataset: 500 Records
-- Products Dataset: 100 Records
-- Orders Dataset: 2000 Records
+| Dataset | Records |
+|----------|---------:|
+| Customers | 500 |
+| Products | 100 |
+| Orders | 2,000 |
 
 ---
 
-## Tools Used
+## Dashboard KPIs
+
+- Total Revenue: ₹6.29 Million
+- Total Orders: 2,000
+- Active Customers: 492
+- Average Customer Spend: ₹3,147.49
+- Average Delivery Time: 4.46 Days
+
+---
+
+## Dashboard Features
+
+- Revenue Analysis by Occasion
+- Revenue Analysis by Category
+- Monthly Sales Trend Analysis
+- Revenue Distribution by Order Hour
+- Top 5 Products by Revenue
+- Top 10 Cities by Order Volume
+- Interactive Slicers and Timelines
+- Dynamic KPI Reporting
+
+---
+
+## Key Insights
+
+- Holi generated the highest revenue among all occasions.
+- Gifts emerged as the top-performing product category.
+- Pune, Surat, Mumbai, Jaipur, and Chennai were among the highest-ordering cities.
+- Average customer spending exceeded ₹3,100 per order.
+- Average delivery time remained approximately 4.5 days.
+- Revenue trends varied significantly across occasions, highlighting seasonal demand patterns.
+
+---
+
+## Tools & Techniques Used
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - XLOOKUP
 - Slicers
+- Timelines
+- Data Cleaning
 - Dashboard Design
+- KPI Reporting
+- Data Visualization
+
+---
+
+## Project Files
+
+- IGP_Sales_Analysis.xlsx
+- Dashboard_Screenshot.png
+- IGP_Project_Problem_Statement.pdf
+- Customers Dataset
+- Products Dataset
+- Orders Dataset
+
+---
+
+## Dashboard Preview
+
+(Add Dashboard Screenshot Here)
+
+---
+
+## Skills Demonstrated
+
+Data Analysis • Data Cleaning • Business Intelligence • Dashboard Development • KPI Reporting • Data Visualization • Sales Analytics
 
 ---
 
 ## Project Status
 
-🚧 Dashboard Development In Progress
+✅ Completed
 
-Dataset uploaded and dashboard creation is currently underway.
+📄 Detailed business requirements, objectives, and project scope are available in the accompanying Project Problem Statement document.
