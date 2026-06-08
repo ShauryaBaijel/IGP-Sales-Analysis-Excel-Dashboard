@@ -80,7 +80,9 @@ The analysis focuses on revenue trends, customer purchasing behavior, product pe
 
 ## Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+
+<img width="1757" height="702" alt="DASHBOARD" src="https://github.com/user-attachments/assets/fedcd5e8-e95a-4926-abc0-3f07a4e18acc" />
+
 
 ---
 
